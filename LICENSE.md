@@ -1,4 +1,4 @@
-# 
+# 新 Android Studio 模板 Mac OS版 | 高级 Android Studio 模板 PC Windows版。集成 网络配置 和 交互式变基，跨平台性能最大化。
 
 
 
